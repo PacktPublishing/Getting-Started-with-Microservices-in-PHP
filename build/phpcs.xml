@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<ruleset name="WineCollection::ImgManage Coding Standard">
+    <description>The coding standard for WineCollection::ImgManage.</description>
+    <rule ref="PSR2"/>
+</ruleset>
