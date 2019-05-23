@@ -1,0 +1,9 @@
+{
+  "name": "WineCollection::imgManage",
+  "version": "0.0.1",
+  "description": "Image Manage Microservice for Wine Collection Application",
+  "apidoc": {
+    "title": "Image Manage Microservice",
+    "url" : "www.home.com"
+  }
+}
