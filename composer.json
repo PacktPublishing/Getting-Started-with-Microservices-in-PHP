@@ -21,7 +21,7 @@
         "phpmd/phpmd": "^2.6",
         "sebastian/phpcpd": "^3.0",
         "phpunit/phpunit": "^5.7",
-        "codeception/codeception": "^2.3",
+        "codeception/codeception": "^3.1",
         "edsonmedina/php_testability": "dev-master",
         "behat/behat": "^3.3"
     },
