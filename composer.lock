@@ -1,7 +1,7 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
     "content-hash": "66fd762db59a17728985ae5ca79d2399",
@@ -3011,7 +3011,7 @@
                 "testing",
                 "unit"
             ],
-            "time": "2017-07-06 22:22:13"
+            "time": "2017-07-06T22:22:13+00:00"
         },
         {
             "name": "facebook/webdriver",
@@ -3276,16 +3276,16 @@
         },
         {
             "name": "mustache/mustache",
-            "version": "v2.11.1",
+            "version": "v2.14.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/bobthecow/mustache.php.git",
-                "reference": "a3f6d55996dd28b58f3a909d474189a3c1aa693f"
+                "reference": "579ffa5c96e1d292c060b3dd62811ff01ad8c24e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/bobthecow/mustache.php/zipball/a3f6d55996dd28b58f3a909d474189a3c1aa693f",
-                "reference": "a3f6d55996dd28b58f3a909d474189a3c1aa693f",
+                "url": "https://api.github.com/repos/bobthecow/mustache.php/zipball/579ffa5c96e1d292c060b3dd62811ff01ad8c24e",
+                "reference": "579ffa5c96e1d292c060b3dd62811ff01ad8c24e",
                 "shasum": ""
             },
             "require": {
@@ -3318,7 +3318,11 @@
                 "mustache",
                 "templating"
             ],
-            "time": "2016-07-31T06:18:27+00:00"
+            "support": {
+                "issues": "https://github.com/bobthecow/mustache.php/issues",
+                "source": "https://github.com/bobthecow/mustache.php/tree/v2.14.1"
+            },
+            "time": "2022-01-21T06:08:36+00:00"
         },
         {
             "name": "myclabs/deep-copy",
@@ -5569,5 +5573,6 @@
     "platform": {
         "php": ">=5.6.4"
     },
-    "platform-dev": []
+    "platform-dev": [],
+    "plugin-api-version": "2.2.0"
 }
